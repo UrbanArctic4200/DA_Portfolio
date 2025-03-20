@@ -15,8 +15,10 @@ questions. Findings and insights were reported directly to the CEO of the compan
 
 The Company CEO is interested in examining how quickly issues are resolved, improving
 customer satisfaction. Here, I 
+
 -Analyzed the help desk tickets, including number of tickets, number of high-
 priority tickets, and average response time. 
+
 -Understood what causes high-priority tickets, and
 improve resolution times with better understanding of ticket details.
 
