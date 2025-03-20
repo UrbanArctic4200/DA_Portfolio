@@ -1,2 +1,2 @@
 # Data Analyst Portfolio
-A portfolio of Power BI Data Analysis Projects
+A portfolio of Power BI Data Analysis Projects where data from different sources in a company are analyzed and reports elaborating on the key findings, insights, correlations, technology solutions, and recommendations for existing IT infrastructure and Information security policies are constructed along with Power BI dashboards that analyze and track key performance indicators (KPIs)
