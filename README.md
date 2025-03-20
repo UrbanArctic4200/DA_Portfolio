@@ -23,3 +23,15 @@ priority tickets, and average response time.
 improve resolution times with better understanding of ticket details.
 
 ![image](https://github.com/user-attachments/assets/f9e18e87-b623-4710-8ff6-5d25c7685e5e)
+![image](https://github.com/user-attachments/assets/fc115d90-6b9a-4333-a9fb-b797e295a78e)
+![image](https://github.com/user-attachments/assets/4877fdb3-0010-4ad8-ba65-d0787614dbba)
+![image](https://github.com/user-attachments/assets/0665a9e1-f54e-4c68-898c-631702192aa8)
+![image](https://github.com/user-attachments/assets/04c5d16c-0f47-4650-8947-b1010934b5ec)
+
+2.) Employee Attrition
+
+
+
+
+
+
